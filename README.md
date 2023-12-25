@@ -1,4 +1,7 @@
 # Correlation and regression for data analysis
+# NAME : HAMZA FAROOQUE
+# REG.NO : 212223040054
+
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
@@ -23,7 +26,9 @@ If y represents the dependent variable and x the independent variable, this rela
 
 ![image](https://github.com/ramjan1729/Correlation_Regression/assets/103921593/9eb48cbf-8ca3-4cd9-8440-ff45fd98333e)
 
+# Output :
+![image](https://github.com/hamza9559/Correlation_Regression/assets/154586530/6220e9fc-f1ba-4979-9926-111a3047e2bc)
 
-# Result
+# Result :
+The Correlation and regression for data analysis of objects from feeder using probability distribution are calculated.
 
-# Output 
